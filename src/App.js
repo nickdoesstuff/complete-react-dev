@@ -22,6 +22,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>Monsters Rolodex</h1>
       <SearchBox value={searchVal} onChange={handleSearchChange} />
       {filteredMutants.length > 0 && <CardList data={filteredMutants} />}
       {filteredMutants.length === 0 && (

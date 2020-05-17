@@ -15,6 +15,7 @@ const SearchBox = (props) => {
     onChange(searchVal);
   }, [searchVal, onChange]);
 
+  //what properties should be on our input item?
   const inputProps = {
     type: type || "search",
     value: searchVal,
