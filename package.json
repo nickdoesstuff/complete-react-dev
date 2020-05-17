@@ -2,7 +2,7 @@
   "name": "complete-react-dev",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nickdoesstuff.github.io/complete-react-dev",
+  "homepage": "https://nickdoesstuff.github.io/complete-react-dev/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
